@@ -18,11 +18,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm Shafiulla Attar, a passionate programmer with approximately 2.5 years of coding experience under my belt. I like to think of myself as a tech enthusiast with a knack for swiftly adapting to new technologies. 😊
+              I'm Shafiulla Attar, I like to think of myself as a tech enthusiast with a knack for swiftly adapting to new technologies. 😊
               <br />
               <br />I'm good at
               <i>
-                <b className="purple"> Javascript. &nbsp;</b>
+                <b className="purple"> Javascript & Java. &nbsp;</b>
               </i>
               and I enjoy building web and mobile apps. I've also started studying Data Structures and Algorithms (DSA).
               <br />
